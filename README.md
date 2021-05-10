@@ -1,2 +1,3 @@
 # chat-app
-Chat application built with React
+
+Chat application built with React!
